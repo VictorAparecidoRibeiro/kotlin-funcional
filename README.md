@@ -1,1 +1,1 @@
-# kotlin-funcional
+# Kotlin - Recursos do paradigma funcional
